@@ -1,0 +1,27 @@
+{
+  "generated": "2026-06-17",
+  "mode": "sample",
+  "seed": 42,
+  "anchor_themes": [
+    {
+      "category": "Air",
+      "theme": "Silent compact air purifier for small bedrooms"
+    },
+    {
+      "category": "Kitchen",
+      "theme": "Air fryer optimized for solo cooking and low energy use"
+    },
+    {
+      "category": "Coffee",
+      "theme": "Easy-clean espresso machine for small kitchens"
+    },
+    {
+      "category": "Floor Care",
+      "theme": "Pet-hair vacuum for small apartments with low noise at night"
+    },
+    {
+      "category": "Robotics",
+      "theme": "Affordable robot vacuum with obstacle avoidance for cluttered homes"
+    }
+  ]
+}
