@@ -204,12 +204,9 @@ data/
 scripts/
   generate_sample_data.py
   prepare_data.py
-  generate_deck.py
 tests/
 reports/
   report.md                         # Case-study report
-  demo_script.md
-  deck_outline.md
 ```
 
 ---
@@ -220,9 +217,6 @@ reports/
 # Copy sample data to data/processed/ and validate
 python scripts/prepare_data.py
 
-# Generate stakeholder PowerPoint
-python scripts/generate_deck.py
-# → reports/sda_opportunity_deck.pptx
 ```
 
 ---
@@ -242,11 +236,6 @@ python scripts/generate_deck.py
 ## Further reading
 
 - **Case-study report:** [`reports/report.md`](reports/report.md)
-- **5-minute demo script:** [`reports/demo_script.md`](reports/demo_script.md)
-- **Presentation outline:** [`reports/deck_outline.md`](reports/deck_outline.md)
 
----
 
-## License
 
-Demo / educational use.
